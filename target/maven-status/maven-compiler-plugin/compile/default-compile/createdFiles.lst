@@ -1,0 +1,15 @@
+com\nasa\prueba\aspirante\dominio\dto\DataResponse.class
+com\nasa\prueba\aspirante\dominio\entities\DataInfo.class
+com\nasa\prueba\aspirante\infraestructura\clientrest\ApiService.class
+com\nasa\prueba\aspirante\infraestructura\restcontroller\SearchController.class
+com\nasa\prueba\aspirante\dominio\entities\DataInfoEntity$DataInfoEntityBuilder.class
+com\nasa\prueba\aspirante\infraestructura\clientrest\NasaDataService.class
+com\nasa\prueba\aspirante\dominio\dto\DataResponse$DataResponseBuilder.class
+com\nasa\prueba\aspirante\infraestructura\repository\DataNasaRepository.class
+com\nasa\prueba\aspirante\config\RestConfig.class
+com\nasa\prueba\aspirante\dominio\entities\NasaCollection.class
+com\nasa\prueba\aspirante\dominio\entities\NasaItem.class
+com\nasa\prueba\aspirante\dominio\entities\DataInfoEntity.class
+com\nasa\prueba\aspirante\NasaApoloApplication.class
+com\nasa\prueba\aspirante\infraestructura\restcontroller\ApiController.class
+com\nasa\prueba\aspirante\aplicacion\taskcheduler\DataScheduler.class

@@ -1,0 +1,5 @@
+# Created at 2024-01-13T17:45:13.115
+Boot Manifest-JAR contains absolute paths in classpath 'D:\CREAR PAGINAS WEB\CON JAVA\USANDO SPRING BOOT\NasaApolo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
